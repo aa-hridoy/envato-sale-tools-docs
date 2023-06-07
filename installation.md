@@ -44,6 +44,10 @@ It’s based on **Laravel framework**, the root folder for it is `/public`. You 
 subdomain is better than sub-folder. (we won’t support to install our product on sub-folder).
 :::
 
+:::tip
+Debugging mode is enabled by default. You can disable it by setting the `APP_DEBUG` variable to `false` in the `.env`.
+:::
+
 ## What’s Next?
 
 After you have installed Envato Sale Tools, you can start setting up your Envato credentials and other settings. Please

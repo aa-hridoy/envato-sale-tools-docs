@@ -19,17 +19,6 @@ should change it in `.env` by setting `CORE_TYPE_ID=` to `ULID` or `BIGINT` befo
 The Laravel framework ships with a `public/.htaccess` file that is used to allow URLs without `index.php`. If you use
 Apache to serve your Laravel application, be sure to enable the `mod_rewrite` module.
 
-If the `.htaccess` file that ships with Laravel does not work with your Apache installation, try this one:
-
-```nginx
-Options +FollowSymLinks
-RewriteEngine On
-
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.php [L]
-```
-
 If your web host doesn't allow the `FollowSymlinks` option, try replacing it with Options `+SymLinksIfOwnerMatch`.
 
 ### Nginx
