@@ -21,7 +21,7 @@ Apache to serve your Laravel application, be sure to enable the `mod_rewrite` mo
 
 If the `.htaccess` file that ships with Laravel does not work with your Apache installation, try this one:
 
-```apacheconf
+```nginx
 Options +FollowSymLinks
 RewriteEngine On
 

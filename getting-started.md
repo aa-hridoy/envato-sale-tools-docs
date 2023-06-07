@@ -23,11 +23,49 @@ To configure Envato credentials, please follow the instructions below:
 
 ## Connect to Envato Account
 
+![Connect account](images/connect-account-1.png)
+
+To track your Envato sales, you need to connect your Envato account to your Envato Sale Tools site. To do that, please
+go to the **Envato Accounts** on the user dropdown menu and click on the **Connect New Account** button.
+
+Then you will be redirected to the Envato Authorize page, click to the **Approve** button.
+
+![Authorize Envato account](images/connect-account-2.png)
+
 ## Import Statements
+
+On the first time you connect to your Envato account, you will need to import your statements. To do that, please go to
+the **Statements** page.
+
+![Import statements](images/import-statements-1.png)
+
+We provide 2 ways _Import Statements from Envato API_ and _Import Statements from CSV file_. We recommend you to
+**import statements from Envato CSV** file because it's don't need to wait for a long time to call the Envato API.
+
+### Import from CSV file
+
+If you have more than 1,000 sales on Envato market. This is the best way to import your statements.
+
+First, you need to download the CSV file from your Envato account by going to the **Statement** page on your Envato
+account.
+
+Once you have downloaded the CSV file, click to the **Import from CSV** button and select the CSV file you have
+downloaded. Then click to the **Upload** button.
+
+![Import from CSV file](images/import-statements-2.png)
+
+You will see the below message if the CSV file is imported successfully.
+
+```
+Done. x,xxx statements has been imported.
+```
 
 ### Import from Envato API
 
-### Import from CSV file
+This way is similar to the _Import from CSV file_ way, but it will take a long time to import your statements due to
+Envato API limitation. This way might take a few minutes or hours to import your statements if you have too many sales.
+
+![Import from Envato API](images/import-statements-3.png)
 
 ## Cronjob
 
