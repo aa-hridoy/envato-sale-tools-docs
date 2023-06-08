@@ -21,6 +21,10 @@ create a ticket on our [support center](https://support.archielite.com) and give
 install it for you for free.
 :::
 
+### Video tutorial install via GUI
+
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/z37zOqFygbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Follow these steps to install Envato Sale Tools:
 
 1. Download the latest version of **Envato Sale Tools** from [CodeCanyon](https://codecanyon.net/downloads).
