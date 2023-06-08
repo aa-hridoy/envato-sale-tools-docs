@@ -1,10 +1,10 @@
 # Tools
 
+The Tools assist users easy to set up verify purchase code, notifications, and scriptable that are available on our tools, you can find the tools in the navigation bar
+
 ## Verify Purchase Code
 
-The Verify Purchase Code support for purchased item, the author will be available to the buyer, to iron out any potential issues of  have in using the item. 
-
-- You can find your purchase code by visiting the Envato Market account and navigating to the "Download" section.
+The Verify Purchase Code is available on our tools. This tool is very helpful to verify the purchase code from the buyer. You can read more about Verify Purchase Code at [here](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-).
 
 ![Verify Purchase Code](images/tools-verify-purchase-code.png)
 
@@ -42,7 +42,7 @@ The Notifications allow you to receive notifications of new sales from your webs
 
 ## Scriptable
 
-The Scriptable help you create a widget in iOS that shows your revenues for this year, this month, and the total.
+The Scriptable help you create a widget on iOS that shows your revenues for this year, this month, and the total.
 
 ![Scriptable](images/tools-scriptable-setting.png)
 
@@ -50,4 +50,3 @@ The Scriptable help you create a widget in iOS that shows your revenues for this
 - When you successfully installed a new widget will appear like the image below
 
 ![Scriptable Widget](images/tools-scriptable.png)
-
