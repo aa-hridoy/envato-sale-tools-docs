@@ -28,7 +28,7 @@ The default timezone is **Australia/Melbourne**. You can change your **Timezone*
 
 ### 4. Theme Mode
 
-Default **Theme Mode** is **System Mode**. It is depended on your device theme color setting. we also support 2 common theme modes: **Light Mode**, **Dark Mode**. This **System Mode**  is also the **Light Mode**, if you set up your device theme color with **Light Mode**.
+Default **Theme Mode** is **System Mode**. It is depended on your device theme color setting. We also support 2 common theme modes: **Light Mode**, **Dark Mode**. This **System Mode** is also the **Light Mode**, if you set up your device theme color with **Light Mode**.
 
 ![Theme Mode](images/theme-mode.png)
 
@@ -48,7 +48,7 @@ Look **Right To Left** site direction.
 
 ![Site Direction Right to Left](images/right-to-left.png)
 
-To change **Site Direction**. You just select the option you want. Press **_Save changes_** to keep this change.
+To change **Site Direction**. You just select the option you want. Click **_Save changes_** to keep this change.
 
 ### 6. Logo
 
@@ -56,9 +56,9 @@ Changing **Logo** is easy by click to gray area bellow **Logo**. A file selectio
 
 ![Logo](images/logo.png)
 
-Notice that, The supported sub-fixes of image file include `.jpg`, `.png`, `.jpeg`. The size of image file must be under `20MB`.
+Notice that, the supported sub-fixes of image file include `.jpg`, `.png`, `.jpeg`. The size of image file must be under `20MB`.
 
-In addition to, You can remove your current logo. It will be replaced to the default logo. To keep this change clicks **_Save changes_** button.
+In addition to, you can remove your current logo. It will be replaced to the default logo. To keep this change clicks **_Save changes_** button.
 
 ![remove-logo.png](images/remove-logo.png)
 
