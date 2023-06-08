@@ -18,7 +18,7 @@ manage your sales, track your sales, analyze your sales, get notifications about
 - **Sales Tracking**: Support to track your sales and get detailed information about your sales.
 - **Verify Purchase Code**: Easy to verify purchase code of your items.
 - **Multiple Languages & Currencies support**.
-- **Scriptable feature**: Scriptable help you create a widget in iOS that shows your revenues for this year, this month,
+- **Scriptable feature**: Scriptable help you create a widget on iOS that shows your revenues for this year, this month,
   and the total on your iPhone.
 - **Tracking Sales From other Author's Items**.
 - Fully responsively and mobile friendly.

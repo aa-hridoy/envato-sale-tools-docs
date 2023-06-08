@@ -40,7 +40,7 @@ the **Statements** page.
 ![Import statements](images/import-statements-1.png)
 
 We provide 2 ways _Import Statements from Envato API_ and _Import Statements from CSV file_. We recommend you to
-**import statements from Envato CSV** file because it's don't need to wait for a long time to call the Envato API.
+**import statements from Envato CSV** file because it doesn't need to wait for a long time to call the Envato API.
 
 ### Import from CSV file
 
@@ -69,7 +69,7 @@ Envato API limitation. This way might take a few minutes or hours to import your
 
 ## Cronjob
 
-Cron jobs are scheduled tasks that the system runs at predefined times or intervals. It helps to synchronize your Envato
+Cronjob are scheduled tasks that the system runs at predefined times or intervals. It helps to synchronize your Envato
 sales with your site automatically.
 
 ### On Shared Hosting
