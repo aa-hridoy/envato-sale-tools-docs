@@ -13,7 +13,7 @@ First you need to change `APP_URL=http://domain.com` to `APP_URL=https://domain.
 
 **Option 2:** Add these lines to `.env`
 
-```dotenv
+```
 CORE_FORCE_SCHEMA=https
 CORE_FORCE_ROOT_URL=https://domain.com
 CORE_ENABLE_HTTPS_SUPPORT=false
